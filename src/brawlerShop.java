@@ -120,7 +120,7 @@ public class brawlerShop {
                 infoModel.addElement(s);
             }
             photo.setIcon(new ImageIcon(
-                    "E:\\2025_26\\11_klase\\jefry artem files\\brawlStartsProject\\out\\production\\brawlStartsProject\\dynomike.png"            ));
+                    "E:\\2025_26\\11_klase\\jefry artem files\\brawlStartsProject\\out\\production\\brawlStartsProject\\Bez nosaukuma.png"        ));
         }
     }
     private int getSelectedPrice(String selected) {
