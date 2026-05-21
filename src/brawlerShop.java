@@ -155,6 +155,10 @@ public class brawlerShop {
                 showError("Enter username!");
                 return;
             }
+            if (listModel.isEmpty()) {
+                showError("Cart is empty!");
+                return;
+            }
             if (username.equals("Input Your Username")) {
                 showError("Enter real username!");
                 return;
